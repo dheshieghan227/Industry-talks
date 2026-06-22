@@ -9,6 +9,7 @@ Welcome to the **Industry Talks** repository. This repository compiles notes, in
 | 1 | [Industrial Talk with PPG – Insights into SAP & Global Enterprise Systems](./ppg%20industry%20talk%201/README.md) | **Mr. Patrick Thong** <br> SAP CoE Operation Stream Lead for APAC, PPG | 5 Nov 2025 |
 | 2 | [Skills2Work Data Center Foundation Training & DayOne Data Center Visit](./DayOne%20Center/README.md) | **Microsoft, UTM & DayOne Data Centers** | Jun 2026 |
 | 3 | [Industrial Visit to PPG Digital IT Malaysia Technology Center](./PPG%202/README.md) | **PPG Digital IT Team** | 7 Apr 2026 |
+| 4 | [Industry Sharing: Enterprise Data Systems with TM ONE](./TM_ONE/README.md) | **Mr. Zaid Waqi Zulkifli** <br> TM ONE | Jun 2026 |
 
 ---
 
