@@ -10,6 +10,7 @@ Welcome to the **Industry Talks** repository. This repository compiles notes, in
 | 2 | [Skills2Work Data Center Foundation Training & DayOne Data Center Visit](./DayOne%20Center/README.md) | **Microsoft, UTM & DayOne Data Centers** | Jun 2026 |
 | 3 | [Industrial Visit to PPG Digital IT Malaysia Technology Center](./PPG%202/README.md) | **PPG Digital IT Team** | 7 Apr 2026 |
 | 4 | [Industry Sharing: Enterprise Data Systems with TM ONE](./TM_ONE/README.md) | **Mr. Zaid Waqi Zulkifli** <br> TM ONE | Jun 2026 |
+| 5 | [Industry Insights with iZeno](./iZENO/README.md) | **iZeno Speakers** | Jun 2026 |
 
 ---
 
