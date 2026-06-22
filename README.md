@@ -11,6 +11,7 @@ Welcome to the **Industry Talks** repository. This repository compiles notes, in
 | 3 | [Industrial Visit to PPG Digital IT Malaysia Technology Center](./PPG%202/README.md) | **PPG Digital IT Team** | 7 Apr 2026 |
 | 4 | [Industry Sharing: Enterprise Data Systems with TM ONE](./TM_ONE/README.md) | **Mr. Zaid Waqi Zulkifli** <br> TM ONE | Jun 2026 |
 | 5 | [Industry Insights with iZeno](./iZENO/README.md) | **iZeno Speakers** | Jun 2026 |
+| 6 | [A Valuable Experience with EY Industry Talk](./EY/README.md) | **EY Representatives** | Jun 2026 |
 
 ---
 
