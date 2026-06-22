@@ -12,6 +12,7 @@ Welcome to the **Industry Talks** repository. This repository compiles notes, in
 | 4 | [Industry Sharing: Enterprise Data Systems with TM ONE](./TM_ONE/README.md) | **Mr. Zaid Waqi Zulkifli** <br> TM ONE | Jun 2026 |
 | 5 | [Industry Insights with iZeno](./iZENO/README.md) | **iZeno Speakers** | Jun 2026 |
 | 6 | [A Valuable Experience with EY Industry Talk](./EY/README.md) | **EY Representatives** | Jun 2026 |
+| 7 | [Data Governance: More Than Just Data](./Data%20Governance/README.md) | **Mr. Faiz Fabilillah** | Jun 2026 |
 
 ---
 
